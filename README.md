@@ -4,3 +4,4 @@
 
 1.1-17.10.30-release.tar.gz Typecho博客主要文件
 
+Akina-for-Typecho-master.zip Typecho博客主题包
